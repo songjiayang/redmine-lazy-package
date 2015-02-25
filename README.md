@@ -2,6 +2,12 @@
 所有的一切都源自一篇博客 http://it-consultis.com/blog/5-redmine-plugins-will-change-way-you-work。
 当我一个一个寻找它们的时候，才发现这时一件蛮费时间事情，更何况 http://www.redminecrm.com/ （一个最大redmine资源的站点 ） 还被墙了；所以，我决定将我常用的一些插件和皮肤汇总在这里，方便有需求的朋友使用。
 
+插件包括:
+* redmine_checklists http://www.redminecrm.com/projects/checklist/pages/1
+* redmine_agile http://www.redminecrm.com/projects/agile/pages/2
+* redmine_timelog_timer https://github.com/emovere/redmine_timelog_timer
+* redmine_github_hook https://github.com/koppen/redmine_github_hook
+
 ps：所有插件均成功跑在 redmine 3.0版本之上
 
 # How to use 
