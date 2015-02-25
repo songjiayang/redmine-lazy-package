@@ -1,1 +1,2 @@
-# redmine-lazy-package
+# Why this repository
+# How can i use it? 
